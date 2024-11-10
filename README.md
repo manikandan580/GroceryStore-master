@@ -34,7 +34,7 @@ The screen contains more than 60 icons and most of all required elements require
 - Free updates
 - license
 -Api Integration not included
--For Api integration Please Contact us:- contact@quintuslabs.com
+
 
 ## Screen 
 
