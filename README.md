@@ -1,6 +1,6 @@
 <a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
 
-* [GroceryStore](https://github.com/quintuslabs/GroceryStore/blob/master/GroceryStore1.0.apk) - Download APK
+* [GroceryStore](https://github.com/manikandan580/GroceryStore-master/blob/master/GroceryStore1.0.apk) - Download APK
 
 
 # GroceryStore
